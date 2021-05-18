@@ -66,7 +66,7 @@ class ButterflyArray
     { 
         FastReader s=new FastReader(); 
         int T = s.nextInt(); 
-		while(T-->=1)
+		while(T<=1)
 		{
 			int n = s.nextInt();
 			int arr[] = new int[n];
